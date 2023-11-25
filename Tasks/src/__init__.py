@@ -1,4 +1,5 @@
 __all__ = [
     'LinearRegression',
-    'Plot'
+    'Plot',
+    'main'
 ]
