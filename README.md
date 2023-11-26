@@ -13,5 +13,7 @@ cd proteiDS
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+pip install jupyterthemes
+jt -t onedork -T -N -kl
 jupyter notebook
 ```
