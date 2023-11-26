@@ -1,6 +1,6 @@
-# proteiDS
-Проект для ГК Протей. Курс по DS
+# Проект по Data Science для ГК Протей
 
+## Задачи
 * [Задача №0](./Tasks/Task%20%230.ipynb)
 * [Задача №1](./Tasks/Task%20%231.ipynb)
 * [Задача №2](./Tasks/Task%20%232.ipynb)
