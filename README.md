@@ -6,7 +6,7 @@
 * [Задача №2](./Tasks/Task%20%232.ipynb)
 
 ## Инструкция по запуску
-Ввести команды ниже в консоль
+### Ввести команды ниже в консоль
 ```
 git clone https://github.com/DanisDeveloper/proteiDS.git
 cd proteiDS
