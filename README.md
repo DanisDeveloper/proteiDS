@@ -13,7 +13,9 @@ cd proteiDS
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-pip install jupyterthemes
-jt -t onedork -T -N -kl
-jupyter notebook
+```
+
+### Точка входа в программу находится в Tasks/main.py
+```
+python ./Tasks/main.py ./data/time_messagees.txt
 ```
